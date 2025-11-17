@@ -32,7 +32,7 @@ const account = {
     exitAccount: function (){
 
             console.log('Thank you for using our ATM. Goodbye!');
-            window.close
+            window.close();
         } 
     
 };
